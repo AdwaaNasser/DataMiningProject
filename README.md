@@ -5,7 +5,7 @@
 ## Group #4
 - **Maria Alshammrani** 445202990
 - **Leen Abdullah Almoqhim** 445204203
-- **Adhwa Alhzani** 444201650
+- **Adwaa Alhuzzani** 444201650
 - **Rahaf Alshalwi** 445201250
 - **Fatima Almohsen** 443200782
 
