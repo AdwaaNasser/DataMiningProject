@@ -3,11 +3,11 @@
 # IT326 (Air Quality and Pollution Assessment)
 
 ## Group #4
-- **Maria Alshammrani** 445202990
-- **Leen Abdullah Almoqhim** 445204203
-- **Adwaa Alhuzzani** 444201650
-- **Rahaf Alshalwi** 445201250
-- **Fatima Almohsen** 443200782
+- **Maria 
+- **Leen
+- **Adwaa
+- **Rahaf 
+- **Fatima
 
 ## Problem
 
